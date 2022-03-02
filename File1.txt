@@ -1,5 +1,8 @@
 Learn branch of github
+On the playlist of GIT & GITHUB, there are 14 videos 
+For the third video with the title "Github : branch" have duration 27:55 minutes
 This is the third video of GIT & GITHUB from WPU (web programming UNPAS)
-FOr the third video with the title "Github : branch" have duration 27:55 minutes
 For detail description for the third video is 104,171 views until today (02 March 2022)
 using hastag #ngoding
+Add link video : https://www.youtube.com/watch?v=k1QXd-8VbPY&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&index=4
+The video uploded by 23 April 2019
