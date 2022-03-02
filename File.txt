@@ -1,4 +1,4 @@
 Learn about programming
 - Create github account
 - Create new file
-- Commit file to repository
+- Edit file
